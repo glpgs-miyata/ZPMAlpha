@@ -10,6 +10,5 @@
 
 @implementation HGTreeNode
 
-@property ()
 
 @end
